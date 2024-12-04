@@ -9,7 +9,7 @@ This repository serves as a storage for specific Chromium versions. You can find
 
 | Version       | URL                                                                                               | Copy URL                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| **Version 131.0.1** | [https://github.com/CodeWithAsterixh/chromium/v131.0.1.tar](https://github.com/CodeWithAsterixh/chromium/v131.0.1.tar)                            | [Copy to Clipboard](# "https://github.com/CodeWithAsterixh/chromium/v131.0.1.tar") |
+| **Version 131.0.1** | [https://github.com/CodeWithAsterixh/chromium/blob/main/v131.0.1.tar](https://github.com/CodeWithAsterixh/chromium/blob/main/v131.0.1.tar)                            | [Copy to Clipboard](# "https://github.com/CodeWithAsterixh/chromium/blob/main/v131.0.1.tar") |
 
 ---
 
